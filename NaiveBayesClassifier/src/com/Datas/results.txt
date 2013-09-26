@@ -1,0 +1,56 @@
+//the test datas are as follows
+
+youth high no fair
+The class is: no
+
+
+youth high no excellent
+The class is: no
+
+
+middle_aged high no fair
+The class is: yes
+
+
+senior medium no fair
+The class is: yes
+
+
+senior low yes fair
+The class is: yes
+
+
+senior low yes excellent
+The class is: yes
+
+
+middle_aged low yes excellent
+The class is: yes
+
+
+youth medium no fair
+The class is: no
+
+
+youth low yes fair
+The class is: yes
+
+
+senior medium yes fair
+The class is: yes
+
+
+youth medium yes excellent
+The class is: yes
+
+
+middle_aged medium no excellent
+The class is: yes
+
+
+middle_aged high yes fair
+The class is: yes
+
+
+senior medium no excellent
+The class is: no
